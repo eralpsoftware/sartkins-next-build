@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/eralpsoftwareweb/Desktop/sartkins/NEXT-BASE/app/layout":["static/media/904be59b21bd51cb-s.p.woff2"],"/Users/eralpsoftwareweb/Desktop/sartkins/NEXT-BASE/app/[locale]/layout":["static/media/904be59b21bd51cb-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
