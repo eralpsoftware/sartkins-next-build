@@ -1,4 +1,15 @@
 {
+  "components/Base/BlockNoteEditor.tsx -> ./BlockNoteEditorInner": {
+    "id": 74735,
+    "files": [
+      "static/css/8c04e962ec6b83fb.css",
+      "static/css/fe41f7c9b1c60192.css",
+      "static/css/6bf31e747adc1a47.css",
+      "static/chunks/f78f25ce.c6efe41e1aefc983.js",
+      "static/chunks/1033.08738626e9aabca3.js",
+      "static/chunks/6978.a7eb0f804bd717ff.js"
+    ]
+  },
   "components/Base/Lottie.tsx -> lottie-react": {
     "id": 7882,
     "files": [

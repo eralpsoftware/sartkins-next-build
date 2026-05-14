@@ -1,1 +1,1 @@
-{"version":1,"functions":{"/[locale]/artist/[artistId]":{},"/[locale]/artist":{}}}
+{"version":1,"functions":{"/[locale]/artist/[artistId]":{},"/[locale]/artist":{},"/[locale]/private-sales/[productSlug]":{},"/[locale]/stories/[storyId]":{},"/[locale]/stories":{}}}
